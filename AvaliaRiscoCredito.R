@@ -3,7 +3,7 @@
 
 # Configurando o diretório de trabalho
 # Coloque entre aspas o diretório de trabalho que você está usando no seu computador
-# setwd("C:/RFundamentos/Mini-Projeto-2")
+# setwd("C:/RFundamentos/AvaliaRiscoCredito/Analise_Risco_Credito")
 # getwd()
 
 # Carregando o dataset em um dataframe
